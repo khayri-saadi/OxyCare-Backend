@@ -1,0 +1,35 @@
+ [
+     {
+        "name" :"ahmed hamami",
+        "email" :"ahmedhamami@gmail.com" ,
+        "password" :"ahmedhamami12345",
+        "confirmPassword" :"ahmedhamami12345",
+        "role" :"doctor",
+        "matricule":"aslamanhbcc"
+    },
+     {
+        "name" :"khaled atyaoui",
+        "email" :"khaledatyaoui@gmail.com" ,
+        "password" :"2566khayri",
+        "confirmPassword" :"2566khayri",
+        "role" :"doctor",
+        "matricule":"aslamanhbcc"
+    },
+     {
+        "name" :"mourad jamali",
+        "email" :"mouradjamali@gmail.com",
+        "password" :"1234mouradat",
+        "confirmPassword" :"1234mouradat",
+        "role" :"doctor",
+        "matricule":"aslamanhbcc"
+    },
+ {
+        "name" :"khalil bouaziz",
+        "email" :"khalilbouaziz@gmail.com" ,
+        "password" :"2566khayri",
+        "confirmPassword" :"2566khayri",
+        "role" :"doctor",
+        "matricule":"aslamanhbcc"
+    }
+    
+]
